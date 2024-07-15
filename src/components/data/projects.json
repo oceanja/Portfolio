@@ -1,0 +1,33 @@
+[
+  {
+    "key": 1,
+    "title": "QuillQuest-Blog",
+    "imageSrc": "assets/projects/quillQuestpicture.jpg",
+    "description": "Tech Stack:NextJs,Firebase and Tailwind CSS.",
+    "demo": "https://quill-quest-blog.vercel.app/",
+    "source": "https://github.com/oceanja/QuillQuest-Blog"
+  },
+  {
+    "key": 2,
+    "title": "ExpenseEase",
+    "imageSrc": "assets/projects/expensetracker.jpg",
+    "description": "Tech Stack:ReactJs and Firebase.",
+    "demo": "https://expenseease-expensetracker.netlify.app/",
+    "source": "https://github.com/oceanja/ExpenseEase-ExpenseTracker"
+  },
+  {
+    "key": 3,
+    "title": "CourseHub",
+    "imageSrc": "assets/projects/coursehub.png",
+    "description": "Tech Stack:HTML,CSS and Javascript.",
+    "demo": "https://coursehub-19.netlify.app/",
+    "source": "https://github.com/oceanja/CourseHub"
+  },
+  {
+    "key": 4,
+    "title": "Password Manager",
+    "imageSrc": "assets/projects/password.jpg",
+    "description": "Tech Stack: Python, SQL.",
+    "source": "https://github.com/oceanja/Password_Manager"
+  }
+]

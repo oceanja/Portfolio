@@ -1,0 +1,14 @@
+[
+    {
+        "key":1,
+        "title":"Leetcode",
+        "imageSrc":"codingProfiles/leetcode.webp",
+        "source":"https://leetcode.com/u/oceanjayant_19/"
+    },
+    {
+        "key":2,
+        "title":"Coding Ninjas",
+        "imageSrc":"codingProfiles/code.webp",
+        "source":"https://www.naukri.com/code360/profile/2678451d-e380-49a5-b689-79ae6fd21f45"
+    }
+]
