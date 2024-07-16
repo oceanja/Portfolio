@@ -249,6 +249,7 @@ a {
   .title {
     margin-left: -3px; 
     text-align: center; 
+    margin-top: 20px; /* Adjust the value as needed */
   }
 }
 
