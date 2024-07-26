@@ -27,10 +27,7 @@
     "title": "Python",
     "imageSrc": "skills/python.png"
   },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongodb.png"
-  },
+  
   {
     "title": "NextJs",
     "imageSrc": "skills/nextjs.webp"
