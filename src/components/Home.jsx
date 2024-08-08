@@ -1,5 +1,5 @@
 import  { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/RESUME_OCEAN_JAYANT.pdf";
 import Typed from "typed.js";
 
 const Home = () => {
@@ -34,7 +34,7 @@ const Home = () => {
   
           <a
             href={pdf}
-            download="Resume.pdf"
+            download="RESUME_OCEAN_JAYANT.pdf"
             className="btn"
             style={{ backgroundColor: "#66FCF1", color: "#000", border:"3px solid blue",marginTop: "12px" }}
           >
